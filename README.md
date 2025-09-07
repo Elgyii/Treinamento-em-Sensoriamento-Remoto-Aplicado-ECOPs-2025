@@ -77,26 +77,37 @@ remota ou sensoriamento remoto. Os participantes deverão:
 
 ### Agenda do Curso
 
-**Módulo 1 (Semana 1): Introdução ao Python Aplicado à Oceanografia** | Dia | Agenda | |
-:-------------------------------------- | :-------------- | | Dia 1 (1h) | Instalação de ferramentas (Conda, VSCode) e
-noções básicas de Python | | Dia 2 (1h) | Introdução ao uso de bibliotecas científicas para análise de dados ambientais
-| | Dia 3 (1h) | Sessão de perguntas e respostas (Q&A) | | Dias 4-5 | Actividades práticas individuais para consolidação
-dos conhecimentos | | Dia 5 | Submissão da avaliação ate as 23:59 do dia |
+**Módulo 1 (Semana 1): Introdução ao Python Aplicado à Oceanografia** 
+| Dia | Agenda | 
+|:-------------------------------------- | :-------------- | 
+| Dia 1 (1h) | Instalação de ferramentas (Conda, VSCode) e noções básicas de Python | 
+| Dia 2 (1h) | Introdução ao uso de bibliotecas científicas para análise de dados ambientais|
+| Dia 3 (1h) | Sessão de perguntas e respostas (Q&A) | 
+| Dias 4-5 | Actividades práticas individuais para consolidação dos conhecimentos | 
+| Dia 5 | Submissão da avaliação ate as 23:59 do dia |
 
-**Módulo 2 (Semana 2): Fundamentos de Sensoriamento Remoto Aplicado aos Oceanos** | Dia | Programa | |
-:-------------------------------------- | :-------------- | | Dia 1 (1h) | Conceitos básicos de detecção remota:
-sensores, plataformas e tipos de resolução | | Dia 2 (1h) | Como procurar, baixar e visualizar imagens de satélite | |
-Dia 3 (1h) | Sessão de dúvidas com exemplos práticos | | Dias 4-5 |Actividades práticas individuais de consolidação dos
-conhecimentos | | Dia 5 | Submissão da avaliação ate as 23:59 do dia |
+**Módulo 2 (Semana 2): Fundamentos de Sensoriamento Remoto Aplicado aos Oceanos** 
+| Dia | Programa | 
+|:-------------------------------------- | :-------------- | 
+| Dia 1 (1h) | Conceitos básicos de detecção remota: sensores, plataformas e tipos de resolução |
+| Dia 2 (1h) | Como procurar, baixar e visualizar imagens de satélite |
+|Dia 3 (1h) | Sessão de dúvidas com exemplos práticos |
+| Dias 4-5 |Actividades práticas individuais de consolidação dos conhecimentos | 
+| Dia 5 | Submissão da avaliação ate as 23:59 do dia |
 
-**Módulo 3 (Semana 3): Análise Temporal e Relações Entre Parâmetros Oceanográficos** | Dia | Agenda | |
-:-------------------------------------- | :-------------- | | Dia 1 (1h) | Análise de séries temporais e variações
-sazonais | | Dia 2 (1h) | Relações entre parâmetros oceanográficos (clorofila, temperatura, nível do mar) | | Dia 3 (1h)
-| Sessão de dúvidas e estudo de caso | | Dias 4-5 | Actividades práticas individuais para consolidação dos conhecimentos
-| | Dia 5 | Submissão da avaliação ate as 23:59 do dia |
+**Módulo 3 (Semana 3): Análise Temporal e Relações Entre Parâmetros Oceanográficos** 
+| Dia | Agenda | 
+|:-------------------------------------- | :-------------- | 
+| Dia 1 (1h) | Análise de séries temporais e variaçõessazonais | 
+| Dia 2 (1h) | Relações entre parâmetros oceanográficos (clorofila, temperatura, nível do mar) | 
+| Dia 3 (1h)| Sessão de dúvidas e estudo de caso | 
+| Dias 4-5 | Actividades práticas individuais para consolidação dos conhecimentos| 
+| Dia 5 | Submissão da avaliação ate as 23:59 do dia |
 
-**Módulo 4 (Semana 4): Trabalho Final em Grupo – Aplicação Prática** | Dia | Agenda | |
-:-------------------------------------- | :-------------- | | Dia 1 (1h) | Formação dos grupos (3 participantes) e
-escolha do tema (qualidade da água, áreas de pesca, mangais, correntes oceânicas, entre outros) | | Dia 2 (1h) | Análise
-de dados e desenvolvimento do trabalho com apoio dos formadores | | Dia 3 (1h) | Sessão de apoio técnico e preparação
-das apresentações | | Dias 4-5 | Apresentações finais dos grupos e discussão colectiva |
+**Módulo 4 (Semana 4): Trabalho Final em Grupo – Aplicação Prática** 
+| Dia | Agenda | 
+|:-------------------------------------- | :-------------- | 
+| Dia 1 (1h) | Formação dos grupos (3 participantes) e escolha do tema (qualidade da água, áreas de pesca, mangais, correntes oceânicas, entre outros) | 
+| Dia 2 (1h) | Análise de dados e desenvolvimento do trabalho com apoio dos formadores | 
+| Dia 3 (1h) | Sessão de apoio técnico e preparação das apresentações | 
+| Dias 4-5 | Apresentações finais dos grupos e discussão colectiva |
